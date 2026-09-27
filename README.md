@@ -40,6 +40,6 @@ Analyzed EV charging sessions to explore energy usage and demand patterns, then 
 ## Connect with Me
 
 * [LinkedIn](https://linkedin.com/in/vishal-jadhav-241904231)
-* Email: [your-email@example.com](mailto:vishaljadhav206877@gmail.com)
+* Email: [vishaljadhav206877@gmail.com](mailto:vishaljadhav206877@gmail.com)
 
 I'm continuously improving my analytical skills and building projects that demonstrate how I work with data.
